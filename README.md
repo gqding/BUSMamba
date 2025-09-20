@@ -23,7 +23,7 @@ conda env create -f environment.yml
 ```
 
 ## Visualizations
-<img src="Figs/FrameWork.png" alt="input" style="width:600px">
+<img src="figs/FrameWork.png" alt="input" style="width:600px">
 
 
 
